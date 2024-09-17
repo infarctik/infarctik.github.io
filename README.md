@@ -1,1 +1,1 @@
-infarctik.github.io
+https://github.com/infarctik
